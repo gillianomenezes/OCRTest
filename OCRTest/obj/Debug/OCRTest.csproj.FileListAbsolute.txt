@@ -1,0 +1,7 @@
+C:\Users\g.silva.de.menezes\source\repos\OCRTest\OCRTest\obj\Debug\OCRTest.csprojAssemblyReference.cache
+C:\Users\g.silva.de.menezes\source\repos\OCRTest\OCRTest\obj\Debug\OCRTest.csproj.CoreCompileInputs.cache
+C:\Users\g.silva.de.menezes\source\repos\OCRTest\OCRTest\bin\Debug\OCRTest.exe.config
+C:\Users\g.silva.de.menezes\source\repos\OCRTest\OCRTest\bin\Debug\OCRTest.exe
+C:\Users\g.silva.de.menezes\source\repos\OCRTest\OCRTest\bin\Debug\OCRTest.pdb
+C:\Users\g.silva.de.menezes\source\repos\OCRTest\OCRTest\obj\Debug\OCRTest.exe
+C:\Users\g.silva.de.menezes\source\repos\OCRTest\OCRTest\obj\Debug\OCRTest.pdb
