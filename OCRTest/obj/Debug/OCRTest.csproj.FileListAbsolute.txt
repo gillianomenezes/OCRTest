@@ -5,3 +5,7 @@ C:\Users\g.silva.de.menezes\source\repos\OCRTest\OCRTest\bin\Debug\OCRTest.exe
 C:\Users\g.silva.de.menezes\source\repos\OCRTest\OCRTest\bin\Debug\OCRTest.pdb
 C:\Users\g.silva.de.menezes\source\repos\OCRTest\OCRTest\obj\Debug\OCRTest.exe
 C:\Users\g.silva.de.menezes\source\repos\OCRTest\OCRTest\obj\Debug\OCRTest.pdb
+C:\Users\g.silva.de.menezes\source\repos\OCRTest\OCRTest\bin\Debug\Microsoft.ProjectOxford.Vision.dll
+C:\Users\g.silva.de.menezes\source\repos\OCRTest\OCRTest\bin\Debug\Newtonsoft.Json.dll
+C:\Users\g.silva.de.menezes\source\repos\OCRTest\OCRTest\bin\Debug\Newtonsoft.Json.xml
+C:\Users\g.silva.de.menezes\source\repos\OCRTest\OCRTest\obj\Debug\OCRTest.csproj.CopyComplete
